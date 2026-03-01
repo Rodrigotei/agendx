@@ -1,5 +1,7 @@
 # 🗓️ AgendX — Sistema de Agendamento para Clínicas
 
+[Sistema online](https://okeuyenjjekn.us-west-1.clawcloudrun.com)
+
 Sistema web desenvolvido em **Laravel** para gerenciamento de agendamentos em clínicas e consultórios.
 
 O AgendX permite que administradores gerenciem profissionais, disponibilidades e atendimentos, enquanto clientes podem realizar agendamentos de forma pública e simples.
